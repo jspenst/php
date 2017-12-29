@@ -1,0 +1,11 @@
+Curso de PHP
+
+-Git
+Iniciar git em uma pasta: git init
+Adicionar: add index.php
+Adicionar todos da pasta: git add --all
+Confirmar alterações: git commit -m "criei meu repositório"
+Configurar nome de usuário para todos os repositórios: git config --global user.name "Jaime Spenst"
+Configurar email para todos os repositórios: git config --global user.email "jaimespenst@gmail.com"
+Enviar arquivos: git push origin master
+Puxar arquivos: git pull origin master

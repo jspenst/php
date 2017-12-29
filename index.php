@@ -1,5 +1,7 @@
 <?php
 
-echo "<strong>Hello World</strong>";
+echo "<strong>Hello World 456</strong>";
+
+echo "Olá Udemy";
 
 ?>
